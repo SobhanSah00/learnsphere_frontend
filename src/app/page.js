@@ -1,11 +1,9 @@
-import {} from ""
+import {Button, buttonVariants} from "../components/ui/button.jsx"
 
 export default function Home() {
   return (
     <>
-    <div>
-
-    </div>
+      <Button>hello</Button>
     </>
   );
 }
